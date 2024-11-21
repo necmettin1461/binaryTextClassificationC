@@ -17,5 +17,5 @@ This repository contains a simple implementation of a neural network for binary 
 
 ## Notes
 - to observe training step by step set DEBUG to 1
-- TYPE shoulde be change to use intended optimisation algorithm
+- TYPE should be changed to use intended optimisation algorithm
 - TRI can be set to 1 to tokenize data as trigrams
